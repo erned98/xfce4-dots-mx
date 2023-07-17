@@ -1,2 +1,2 @@
-# xfce4-dots
-Kali-inspired Xfce setup for all distros possible.
+# xfce4-dots-mx
+Kali-inspired Xfce setup with tweaks for MX Linux.
